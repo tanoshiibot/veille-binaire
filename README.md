@@ -4,11 +4,11 @@ Veille technologique : présentation du binaire avec Minecraft et utilisation en
 
 ## Contenu :
 
-#**binary.js** => script montrant quelques exemples d'utilisation du système binaire en Javascript;
+* **binary.js** => script montrant quelques exemples d'utilisation du système binaire en Javascript;
 
-#**binary.png** => petite schéma explicatif de l'opérateur **&**, et comment utiliser `n & 1` pour savoir si **n** est impair.
+* **binary.png** => petite schéma explicatif de l'opérateur **&**, et comment utiliser `n & 1` pour savoir si **n** est impair.
 
-#**world.zip** => monde *Minecraft* sur lequel j'ai présenté ma veille. Sans les explications qui l'accompagne, il est compliqué de comprendre le binaire, mais si les systèmes en *redstone* vous intéressent, n'hésitez pas à y jeter un oeil.
+* **world.zip** => monde *Minecraft* sur lequel j'ai présenté ma veille. Sans les explications qui l'accompagne, il est compliqué de comprendre le binaire, mais si les systèmes en *redstone* vous intéressent, n'hésitez pas à y jeter un oeil.
 
 ## Sources :
 
