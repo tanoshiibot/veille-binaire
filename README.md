@@ -1,4 +1,4 @@
-# veille-binaire
+# Veille : Opérateurs binaires, bits et portes logiques (sur Minecraft et Javascript)
 
 Veille technologique : présentation du binaire avec Minecraft et utilisation en JS par Olivia Fantinel.
 
